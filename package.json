@@ -24,6 +24,6 @@
         "monadic"
     ],
     "author" : "James Halliday <mail@substack.net> (http://substack.net)",
-    "license" : "MIT/X11",
+    "license" : "MIT",
     "engine" : { "node" : ">=0.4.0" }
 }
